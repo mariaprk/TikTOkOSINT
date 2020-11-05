@@ -25,7 +25,7 @@ class TikTokOSINT:
 		if username.startswith('@'):
 			self.username = username
 		else:
-			self.username = f'@{username}'
+			self.username = f'@{callmecahya99}'
 		
 		self.create_dir()
 		# Scrapes the profile and creates the data and posts objects
